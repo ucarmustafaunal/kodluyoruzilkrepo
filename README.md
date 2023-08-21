@@ -8,7 +8,7 @@ Bu repo, [Kodluyoruz](https://kodluyoruz.org/) Git-Hub Eğitiminde oluşturduğu
 
 Öncelikle projeyi clonelayın. [link](https://github.com/ucarmustafaunal/kodluyoruzilkrepo)
 
-< https://github.com/ucarmustafaunal/kodluyoruzilkrepo
+> https://github.com/ucarmustafaunal/kodluyoruzilkrepo
 
 ## Usage
 
